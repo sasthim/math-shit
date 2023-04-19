@@ -3,7 +3,7 @@ Gonna add random math formulas til i get tired
 
 Currently solving:
 
-1.Dichotomy method
+1.Dichotomy method 
 2.Lagrange polynomial
 
 
