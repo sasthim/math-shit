@@ -9,7 +9,7 @@ Currently solving:
 To be done:
 
 1.It can't be all in a single file so i need to think how to improve that, idk maybe should make different libraries for each category of formula, 
-ie. geometry, algebra, calculus
-2.GUI improvements, but also too lazy to do that cuz it doesnt rlly matter so
-3.idk tutorials on how to use each formula? nah too much effort
+ie. geometry, algebra, calculus\n
+2.GUI improvements, but also too lazy to do that cuz it doesnt rlly matter so\n
+3.idk tutorials on how to use each formula? nah too much effort\n
 4.Focus on practical use maybe cuz then there would be a reason to even open it?
