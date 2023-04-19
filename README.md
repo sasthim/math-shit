@@ -1,5 +1,5 @@
 # math-shit
-//idk how to format this file but who cares
+>idk how to format this file but who cares
 Gonna add random math formulas til i get tired
 Currently solving:
 
